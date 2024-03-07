@@ -1,0 +1,3 @@
+[submodule ".config/lua/user"]
+	path = .config/lua/user
+	url = git@github.com:scruch93/astrovim_config.git
